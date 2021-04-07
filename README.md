@@ -1,3 +1,3 @@
 # forms
 
-Front end page for a departmental store
+A simple form interface created using html and css.
